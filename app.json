@@ -8,8 +8,8 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/Renamebot",
+  "website": "https://github.com/ayushma-gupta04/PrivateRenameBot",
   "repository": "https://github.com/Koro-Sensei-0/TG-Rename-Bot",
   "env": {
     "WEBHOOK": {
