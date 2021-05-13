@@ -1,7 +1,6 @@
-## Rename Bot - Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)
----
+## Rename Bot
 
-An Open Source Rename Telegram RoBot
+An Close Source Rename Telegram Bot
 
 **My Feature**:
 
@@ -17,7 +16,7 @@ An Open Source Rename Telegram RoBot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/erichdanikeninfo/TG-Rename-Bot/tree/master)
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription  Removed form This Repo
 
 #### The Hard Way
 
@@ -29,19 +28,11 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Channel and Group
-
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
-
 ## Credits, and Thanks to
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) for his [AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
-- For FeedBack and Suggestions, please feel free to say in [@InFoTelGroup](https://telegram.dog/InFoTelGroup)
 
 #### LICENSE
 - GPLv3
