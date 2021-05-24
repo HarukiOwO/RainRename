@@ -16,6 +16,9 @@ An Close Source Rename Telegram Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ayushma-gupta04/PrivateRenameBot)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template)
+
+
 **upgrade** your subscription  Removed form This Repo
 
 #### The Hard Way
